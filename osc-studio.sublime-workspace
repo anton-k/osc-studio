@@ -1,0 +1,1406 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wait",
+				"wait_time"
+			],
+			[
+				"dbfs",
+				"0dbfs"
+			],
+			[
+				"rele",
+				"releaseTime"
+			],
+			[
+				"PA",
+				"PadSharcSpec"
+			],
+			[
+				"mv",
+				"mvclpf1"
+			],
+			[
+				"pads",
+				"padsynth"
+			],
+			[
+				"padSh",
+				"padSharcBandwidth"
+			],
+			[
+				"padsSh",
+				"padsynthSharcOsc2"
+			],
+			[
+				"se",
+				"specs"
+			],
+			[
+				"padsy",
+				"padsynthFundamental"
+			],
+			[
+				"padsynthH",
+				"padsynthHarmonicStretch"
+			],
+			[
+				"ban",
+				"bandwidth"
+			],
+			[
+				"Pad",
+				"PadsynthSpec"
+			],
+			[
+				"PS",
+				"PadsynthSpec"
+			],
+			[
+				"pa",
+				"padsynth"
+			],
+			[
+				"Gen",
+				"GenId"
+			],
+			[
+				"String",
+				"StringGenId"
+			],
+			[
+				"init",
+				"initCond"
+			],
+			[
+				"S",
+				"Sig"
+			],
+			[
+				"def",
+				"defMaybe"
+			],
+			[
+				"Boo",
+				"BoolSigOrD"
+			],
+			[
+				"cou",
+				"countRef"
+			],
+			[
+				"un",
+				"untilDo"
+			],
+			[
+				"pr",
+				"primTupleMethods"
+			],
+			[
+				"Bool",
+				"BoolSig"
+			],
+			[
+				"foldT",
+				"foldTabi"
+			],
+			[
+				"wiD",
+				"withDeepOffset"
+			],
+			[
+				"deeP",
+				"deepPadding"
+			],
+			[
+				"eq",
+				"equalTemp"
+			],
+			[
+				"you",
+				"youngTemp"
+			],
+			[
+				"yu",
+				"youngTemp1"
+			],
+			[
+				"cps",
+				"cpsmidi"
+			],
+			[
+				"sca",
+				"scaleList"
+			],
+			[
+				"scale",
+				"scaleList"
+			],
+			[
+				"Scal",
+				"ScaleList"
+			],
+			[
+				"Sca",
+				"ScaleList"
+			],
+			[
+				"w",
+				"werckmeisterCents"
+			],
+			[
+				"ju",
+				"justCents"
+			],
+			[
+				"scaleC",
+				"scaleCents"
+			],
+			[
+				"tabQ",
+				"tabQueue2_append"
+			],
+			[
+				"add",
+				"addUdoPlugin"
+			],
+			[
+				"udo",
+				"udoPlugins"
+			],
+			[
+				"get",
+				"getUdoPluginNames"
+			],
+			[
+				"tab",
+				"tabQueuePlugin"
+			],
+			[
+				"Udo",
+				"UdoPlugin"
+			],
+			[
+				"UD",
+				"UdoPlugins"
+			],
+			[
+				"myId",
+				"myIdRef"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"pi",
+				"pitchTab"
+			],
+			[
+				"po",
+				"port"
+			],
+			[
+				"rel",
+				"releaseTime"
+			],
+			[
+				"pat",
+				"patchByNameMidi"
+			],
+			[
+				"instr",
+				"instrIdFromE"
+			],
+			[
+				"trigByName",
+				"trigByNameMidi_"
+			],
+			[
+				"Nam",
+				"namedIntruments"
+			],
+			[
+				"Instr",
+				"InstrBody"
+			],
+			[
+				"sa",
+				"saveNamedInstr"
+			],
+			[
+				"tri",
+				"trigByName_"
+			],
+			[
+				"sc",
+				"scaleTab"
+			],
+			[
+				"PAt",
+				"Patch2"
+			],
+			[
+				"D",
+				"DryWetRatio"
+			],
+			[
+				"imp",
+				"impulseMarimba2"
+			],
+			[
+				"Fre",
+				"frenchHornMuted"
+			],
+			[
+				"vio",
+				"violaMuted"
+			],
+			[
+				"Sharc",
+				"SharcInstr"
+			],
+			[
+				"ke",
+				"keyColumns"
+			],
+			[
+				"syn",
+				"syncBeats"
+			],
+			[
+				"harm",
+				"harmonics2tab"
+			],
+			[
+				"no",
+				"noteHarmonics"
+			],
+			[
+				"tabs",
+				"tabs"
+			],
+			[
+				"fmG",
+				"fmGraph"
+			],
+			[
+				"fmGr",
+				"fmGraphOuts"
+			],
+			[
+				"fmGrap",
+				"fmGraphOuts"
+			],
+			[
+				"render",
+				"renderIdx"
+			],
+			[
+				"Pa",
+				"Patch1"
+			],
+			[
+				"hardSa",
+				"hardSaturator2"
+			],
+			[
+				"hP",
+				"headPanNet2"
+			],
+			[
+				"simpl",
+				"simpleHrtfstat"
+			],
+			[
+				"si",
+				"simpleHrtfmove"
+			],
+			[
+				"st",
+				"staticHeadPan"
+			],
+			[
+				"hea",
+				"headPan"
+			],
+			[
+				"har",
+				"harmonics2tab"
+			],
+			[
+				"letCs",
+				"letCseFramed"
+			],
+			[
+				"has",
+				"hasWithSalt"
+			],
+			[
+				"inf",
+				"infoName"
+			],
+			[
+				"ratedE",
+				"ratedExpHash"
+			],
+			[
+				"hash",
+				"hashWithSalt"
+			],
+			[
+				"Mul",
+				"MultiRate"
+			],
+			[
+				"li",
+				"lightIsTooBrightPad"
+			],
+			[
+				"poly",
+				"polySynthInstr"
+			],
+			[
+				"pur",
+				"pureBass"
+			],
+			[
+				"osc",
+				"oscs"
+			],
+			[
+				"pol",
+				"polySynthInstr"
+			],
+			[
+				"polyS",
+				"polySynthFx"
+			],
+			[
+				"gre",
+				"greaterThanEquals"
+			],
+			[
+				"les",
+				"lessThanEquals"
+			],
+			[
+				"le",
+				"lessThanEquals"
+			],
+			[
+				"Fx",
+				"FxFun"
+			],
+			[
+				"Unt",
+				"Unit"
+			],
+			[
+				"bonS",
+				"bonSpec3"
+			],
+			[
+				"cS",
+				"cymSpec2"
+			],
+			[
+				"hC",
+				"highConga"
+			],
+			[
+				"chh",
+				"closedHiHat"
+			],
+			[
+				"sampler",
+				"getSampleRate"
+			],
+			[
+				"stop",
+				"stops"
+			],
+			[
+				"evtT",
+				"evtTrigNoInit"
+			],
+			[
+				"sCT",
+				"syncCharToggle"
+			],
+			[
+				"syncEvtT",
+				"syncEvtTap"
+			],
+			[
+				"min",
+				"minitVal"
+			],
+			[
+				"ii",
+				"initVal"
+			],
+			[
+				"eT",
+				"evtTrigger"
+			],
+			[
+				"dryS",
+				"drySchedUntil"
+			],
+			[
+				"drySc",
+				"drySched"
+			],
+			[
+				"atS",
+				"atSco"
+			],
+			[
+				"ri",
+				"rimSpec"
+			],
+			[
+				"lC",
+				"lowConga"
+			],
+			[
+				"ho",
+				"highConga"
+			],
+			[
+				"hig",
+				"highTom"
+			],
+			[
+				"mi",
+				"midTom"
+			],
+			[
+				"op",
+				"openHiHat"
+			],
+			[
+				"ma",
+				"maracas"
+			],
+			[
+				"bong",
+				"bongo3"
+			],
+			[
+				"bon",
+				"bongo2"
+			],
+			[
+				"cy",
+				"cymbal2"
+			],
+			[
+				"choi",
+				"choirE"
+			],
+			[
+				"cho",
+				"choirO"
+			],
+			[
+				"acco",
+				"accordeonBright2"
+			],
+			[
+				"acc",
+				"accordeonBright"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ui_flow.py",
+			"settings":
+			{
+				"buffer_size": 13026,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ui_sampler.py",
+			"settings":
+			{
+				"buffer_size": 19848,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ui_rnd_tap.py",
+			"settings":
+			{
+				"buffer_size": 7121,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rnd_tap.py",
+			"settings":
+			{
+				"buffer_size": 1251,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "sampler.csd",
+			"settings":
+			{
+				"buffer_size": 13144,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anton/music/raga/try-osc/charukeshi/sampler/index.json",
+			"settings":
+			{
+				"buffer_size": 369,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anton/music/raga/try-osc/call/flow/index.json",
+			"settings":
+			{
+				"buffer_size": 132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anton/music/raga/try-osc/fidel/sampler/index.json",
+			"settings":
+			{
+				"buffer_size": 391,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anton/music/raga/live-src/Board.hs",
+			"settings":
+			{
+				"buffer_size": 5654,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/anton/music/raga/live-src/Live.hs",
+			"settings":
+			{
+				"buffer_size": 4702,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"m",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"M",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mP",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"PI",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/anton/music/raga/try-osc/charukeshi/flow/index.json",
+		"/home/anton/music/csound-bits/PadFuz.hs",
+		"/home/anton/dev/gen-opcodes/src/Csound/Gen/Parse.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Tab.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Air/Padsynth.hs",
+		"/home/anton/dev/csound-catalog/src/Csound/Catalog/Wave/Sharc.hs",
+		"/home/anton/music/raga/notes/notes1.txt",
+		"/home/anton/dev/csound-catalog/src/Csound/Catalog/Wave.hs",
+		"/home/anton/dev/csound-catalog/src/Csound/Catalog/Wave/Thor.hs",
+		"/home/anton/Ps.hs",
+		"/home/anton/hilbert.csd",
+		"/home/anton/hilbert_barberpole.csd",
+		"/home/anton/tmp.csd",
+		"/home/anton/music/SweetPAD/Program.txt",
+		"/home/anton/music/csound-bits/tmp.csd",
+		"/home/anton/dev/csound-catalog/src/Csound/Patch.hs",
+		"/home/anton/dev/csound-expression/src/Csound/SigSpace.hs",
+		"/home/anton/dev/csound-catalog/src/Csound/Catalog/Wave/Flavio.hs",
+		"/home/anton/dev/csound-expression/ideas/GranDel.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Air/Filter.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Air/Envelope.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Air/Fx.hs",
+		"/home/anton/dev/csound-expression/ideas/PingPong.hs",
+		"/home/anton/dev/gen-opcodes/src/Csound/Gen/Pretty.hs",
+		"/home/anton/tools/csound/Opcodes/newfils.c",
+		"/home/anton/dev/csound-sampler/src/Csound/Sam.hs",
+		"/home/anton/dev/csound-sampler/src/Csound/Sam/Core.hs",
+		"/home/anton/tools/csound/Opcodes/padsynth_gen.cpp",
+		"/home/anton/dev/csound-expression/src/Csound/Air/Wave.hs",
+		"/home/anton/PadSynth.csd",
+		"/home/anton/padsynth-examples/flute-pad-midi.csd",
+		"/home/anton/padsynth-examples/triplet-delay-4-seconds.csd",
+		"/home/anton/Test.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Types.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Control/Api.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Control/Instr.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Control/Gui/Layout.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Gui/Gui.hs",
+		"/home/anton/Downloads/stepSeq.csd",
+		"/home/anton/dev/csound-expression-dynamic/src/Csound/Dynamic/Build.hs",
+		"/home/anton/dev/csound-expression-dynamic/src/Csound/Dynamic/Build/Logic.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/GlobalState/Options.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Air.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Control/Ref.hs",
+		"/home/anton/dev/csound-expression-dynamic/src/Csound/Dynamic/Types/Exp.hs",
+		"/home/anton/dev/csound-expression-dynamic/src/Csound/Dynamic/Render/Pretty.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/GlobalState/Opcodes.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/GlobalState/Elements.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Types/Prim.hs",
+		"/home/anton/friends/kirill/TrackNames.txt",
+		"/home/anton/dev/csound-expression/csound-expression.cabal",
+		"/home/anton/dev/csound-expression/src/Csound/Options.hs",
+		"/home/anton/dev/csound-expression/README.md",
+		"/home/anton/dev/csound-expression/tutorial/chapters/SoundFontsTutorial.md",
+		"/home/anton/learn/sequencer/ui.py",
+		"/home/anton/dev/csound-expression/tutorial/Index.md",
+		"/home/anton/dev/csound-expression/tutorial/chapters/CsoundAPI.md",
+		"/home/anton/dev/csound-expression/examples/Api/oscil.py",
+		"/home/anton/dev/csound-expression/tutorial/chapters/Tuning.md",
+		"/home/anton/dev/csound-expression/src/Csound/Air/Patch.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Control/Midi.hs",
+		"/home/anton/dev/csound-expression/src/Csound/IO.hs",
+		"/home/anton/x/New.hs",
+		"/home/anton/learn/sequencer/music4.csd",
+		"/home/anton/learn/sequencer/listenMusic4.csd",
+		"/home/anton/learn/sequencer/stepSeq.csd",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Control/Loop.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Types/Tuple.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Control/Loop.hs",
+		"/home/anton/dev/csound-expression-typed/csound-expression-typed.cabal",
+		"/home/anton/dev/csound-expression/src/Csound/Control/Gui/Props.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Gui/BoxModel.hs",
+		"/home/anton/learn/ToneMatrix2.hs",
+		"/home/anton/learn/Drums.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Control.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Control.hs",
+		"/home/anton/learn/drum1.csd",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Control/Osc.hs",
+		"/home/anton/learn/andy/TinySynt/app/src/main/res/raw/drums/drum2.csd",
+		"/home/anton/learn/andy/TinySynt/app/src/main/res/raw/drums/drum4.csd",
+		"/home/anton/learn/drum.csd",
+		"/home/anton/learn/tmp.csd",
+		"/home/anton/Ta.md",
+		"/home/anton/dev/csound-expression/tutorial/chapters/GranularSynthesisTutorial.md",
+		"/home/anton/idea/it-job.md",
+		"/etc/profile",
+		"/home/anton/x/trygo/hello.go",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Types.hs",
+		"/home/anton/x/Main.hs",
+		"/home/anton/music/raga/live-src/Test.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Control/SE.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Control/Gui/Widget.hs",
+		"/home/anton/music/csound-bits/patches/Tune.hs",
+		"/home/anton/music/csound-bits/patches/tmp.csd",
+		"/home/anton/dev/csound-expression/src/Csound/Control/Overload/MidiInstr.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Control/Overload.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Base.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Control/Overload/SpecInstr.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Tuning.hs",
+		"/home/anton/dev/temporal-music-notation/src/Temporal/Music/Scales.hs",
+		"/home/anton/music/csound-bits/sketch/T.hs",
+		"/home/anton/music/Test.hs",
+		"/home/anton/test-ampmid.csd",
+		"/home/anton/dev/csound-expression-typed/data/opcodes/tabQueue2.udo",
+		"/home/anton/dev/csound-expression-typed/scripts/up-to-cat.sh",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Render.hs",
+		"/home/anton/dev/tiny-synth/idea/list.csd",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Plugins/TabQueue.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/GlobalState/GE.hs",
+		"/home/anton/Try.hs",
+		"/home/anton/music/csound-bits/patches/Glitch.hs",
+		"/home/anton/Wm.hs",
+		"/home/anton/T.hs",
+		"/home/anton/M.hs",
+		"/home/anton/dev/tiny-synth/src/instruments/epianos/Epiano 1.csd",
+		"/home/anton/dev/tiny-synth/src/Lib.hs",
+		"/home/anton/test-midi.py",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Control/Evt.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/GlobalState/Instr.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/Types/MixSco.hs",
+		"/home/anton/dev/csound-expression-typed/src/Csound/Typed/GlobalState/SE.hs",
+		"/home/anton/dev/csound-expression/sripts/up-to-cat.sh",
+		"/home/anton/dev/gen-opcodes/resources/csound-expression-opcodes.cabal",
+		"/home/anton/music/raga/live-src/Live.hs",
+		"/home/anton/music/raga/live-src/Beat.hs",
+		"/home/anton/dev/csound-expression/src/Csound/Air/Fm.hs",
+		"/home/anton/Documents/csound-conf/Dance.hs",
+		"/home/anton/dev/csound-catalog/csound-catalog.cabal"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/anton/dev/csound-expression-typed/src",
+			"<project>",
+			"/home/anton/dev/csound-expression-typed",
+			"/home/anton/dev/csound-expression-typed/src",
+			"/home/anton/dev/csound-expression/src",
+			"/home/anton/dev/csound-expression-typed/src",
+			"/home/anton/dev/csound-expression-typed",
+			"/home/anton/dev/csound-expression-typed/src",
+			"/home/anton/dev/csound-expression"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ibpm",
+			"ram",
+			"load_list",
+			"load_samples",
+			"state.client",
+			"avatar",
+			"hammond",
+			"psPi",
+			"mixIns",
+			"mixInstr",
+			"withDeepBa",
+			"saturator",
+			"Fx",
+			"epiano",
+			"fades",
+			"echo",
+			"alp",
+			"mvclpf24",
+			"padsynthSharcOsc2",
+			"padsybth",
+			"sh.notes",
+			"bwOsc",
+			"harmonicAmplitude",
+			"Csp",
+			"guardedB ::",
+			" ::",
+			"guardedB",
+			"gu",
+			"sines4",
+			"plains",
+			"preTab",
+			"TabFi",
+			"instrIdE",
+			"gen",
+			"rateExp",
+			"179",
+			"onExp",
+			"boolExp",
+			"notE",
+			"BoolExp",
+			"whileDo",
+			"untilDo",
+			"Default",
+			"offs",
+			"padding",
+			"strike",
+			"trigByName",
+			"89",
+			"named",
+			"instance Tuple",
+			"TabLi",
+			"tabLi",
+			"sflooper",
+			"genSfMsg",
+			"meanto",
+			"meanTo",
+			"ampCps",
+			"msg",
+			"trigNamedMono",
+			"scale",
+			"Scale",
+			"msg",
+			"cpsmidi",
+			"ampCps",
+			"cpsmidi",
+			"irl0",
+			"reinit",
+			"gkrgg0",
+			"tab",
+			"newGlobalRef",
+			"hnumber",
+			"gargg0",
+			"table",
+			"gkrgg6",
+			"newGuiVar",
+			"newGuiHandle",
+			"hnumb",
+			"gargg0",
+			"11",
+			"cpstmid",
+			"midi ::",
+			"gkrgg2",
+			"newTab",
+			"saveGen",
+			"newGen",
+			"newWriteGen",
+			"saveId",
+			"getUdoPluginNames",
+			"verba",
+			"getDataFileName",
+			"getNe",
+			"ftgeno",
+			"getNextG",
+			"getNextGl",
+			"tab",
+			"downsa",
+			"port",
+			"ampmidi",
+			"event",
+			"makeCa",
+			"event",
+			"newClear",
+			"ppInstrId",
+			"74",
+			"newGlobalVars",
+			"instrs",
+			"NamedI",
+			"25",
+			"InstrBody",
+			"Instrs",
+			"Arg",
+			"StableName",
+			"saveTo",
+			"saveToMidi",
+			"saveToMidiInstr",
+			"ampcps`",
+			"sendChn",
+			"epia",
+			"epiano1",
+			"simpleMa",
+			"toneW",
+			"Ir",
+			"sigOn1",
+			"sendChn",
+			"chn",
+			"scaleMidiVolumeFactor",
+			"setMidiDevice",
+			"midi"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"avatara",
+			"padsynth",
+			"bwOscBy",
+			"Cps",
+			"temp",
+			"Temp",
+			"Ref",
+			"h3",
+			"Ref",
+			"metro",
+			"Ref",
+			"delaySig",
+			"FxFun",
+			"tabDelay",
+			"Hvs",
+			"SizeFFT",
+			"PitchSig",
+			"TempoSig",
+			"Overlap",
+			"midiAmpInstr",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ui_flow.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13026,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6136,
+								6136
+							]
+						],
+						"settings":
+						{
+							"intellip_row": 204,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3468.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ui_sampler.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19848,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7852,
+								7852
+							]
+						],
+						"settings":
+						{
+							"intellip_row": 244,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3696.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ui_rnd_tap.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3945,
+								3945
+							]
+						],
+						"settings":
+						{
+							"intellip_row": 128,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1683.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "rnd_tap.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								266,
+								266
+							]
+						],
+						"settings":
+						{
+							"intellip_row": 13,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "sampler.csd",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2834,
+								2834
+							]
+						],
+						"settings":
+						{
+							"intellip_row": 130,
+							"syntax": "Packages/csoundSublime/Csound/Csound.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1843.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/anton/music/raga/try-osc/charukeshi/sampler/index.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								197,
+								209
+							]
+						],
+						"settings":
+						{
+							"intellip_row": 10,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/anton/music/raga/try-osc/call/flow/index.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"intellip_row": 5,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/anton/music/raga/try-osc/fidel/sampler/index.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"intellip_row": 2,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/anton/music/raga/live-src/Board.hs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								927,
+								927
+							]
+						],
+						"settings":
+						{
+							"intellip_row": 36,
+							"syntax": "Packages/Haskell/Haskell.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1231.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/anton/music/raga/live-src/Live.hs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Haskell/Haskell.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1530.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/csoundSublime/Csound/Csound.sublime-build",
+	"project": "osc-studio.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/to"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/music/raga/raga.sublime-project"
+			],
+			[
+				"\\",
+				"~/dev/csound-expression.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 521.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

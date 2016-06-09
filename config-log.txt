@@ -1,0 +1,265 @@
+-- The C compiler identification is GNU 4.9.1
+-- The CXX compiler identification is GNU 4.9.1
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- /home/anton/tools/csound
+-- LIBRARY INSTALL DIR: lib
+-- Performing Test HAS_TREE_VECTORIZE
+-- Performing Test HAS_TREE_VECTORIZE - Success
+-- Performing Test HAS_CXX_TREE_VECTORIZE
+-- Performing Test HAS_CXX_TREE_VECTORIZE - Success
+-- Performing Test HAS_FAST_MATH
+-- Performing Test HAS_FAST_MATH - Success
+-- Performing Test HAS_CXX_FAST_MATH
+-- Performing Test HAS_CXX_FAST_MATH - Success
+-- Performing Test HAS_FPMATH_SSE
+-- Performing Test HAS_FPMATH_SSE - Success
+-- Performing Test HAS_CXX_FPMATH_SSE
+-- Performing Test HAS_CXX_FPMATH_SSE - Success
+-- Performing Test HAS_SSE2
+-- Performing Test HAS_SSE2 - Success
+-- Performing Test HAS_CXX_SSE2
+-- Performing Test HAS_CXX_SSE2 - Success
+-- Performing Test HAS_OMIT_FRAME_POINTER
+-- Performing Test HAS_OMIT_FRAME_POINTER - Success
+-- Performing Test HAS_CXX_OMIT_FRAME_POINTER
+-- Performing Test HAS_CXX_OMIT_FRAME_POINTER - Success
+-- Not using Custom.cmake file.
+-- Performing Test HAS_VISIBILITY_HIDDEN
+-- Performing Test HAS_VISIBILITY_HIDDEN - Success
+-- Performing Test HAS_CXX_VISIBILITY_HIDDEN
+-- Performing Test HAS_CXX_VISIBILITY_HIDDEN - Success
+-- BUILD_BIN_DIR set to /home/anton/tools/cs6make
+-- BUILD_LIB_DIR set to /home/anton/tools/cs6make
+-- BUILD_PLUGINS_DIR set to /home/anton/tools/cs6make
+-- Check if the system is big endian
+-- Searching 16 bit integer
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of unsigned short
+-- Check size of unsigned short - done
+-- Using unsigned short
+-- Check if the system is big endian - little endian
+-- Try OpenMP C flag = [-fopenmp]
+-- Performing Test OpenMP_FLAG_DETECTED
+-- Performing Test OpenMP_FLAG_DETECTED - Success
+-- Try OpenMP CXX flag = [-fopenmp]
+-- Performing Test OpenMP_FLAG_DETECTED
+-- Performing Test OpenMP_FLAG_DETECTED - Success
+-- Found OpenMP: -fopenmp  
+-- PTHREAD STATIC LIBRARY: 
+-- Performing Test HAVE_ATOMIC_BUILTIN
+-- Performing Test HAVE_ATOMIC_BUILTIN - Success
+-- Using Atomic Builtins
+-- Looking for libintl.h
+-- Looking for libintl.h - found
+-- Looking for C++ include eigen3/Eigen/Dense
+-- Looking for C++ include eigen3/Eigen/Dense - not found
+-- Found Gettext: /usr/bin/msgmerge (found version "0.18.3") 
+-- Looking for lrint in m
+-- Looking for lrint in m - found
+-- Looking for unistd.h
+-- Looking for unistd.h - found
+-- Looking for io.h
+-- Looking for io.h - not found
+-- Looking for fcntl.h
+-- Looking for fcntl.h - found
+-- Looking for sys/time.h
+-- Looking for sys/time.h - found
+-- Looking for termios.h
+-- Looking for termios.h - found
+-- Looking for values.h
+-- Looking for values.h - found
+-- Looking for winsock.h
+-- Looking for winsock.h - not found
+-- Looking for sys/socket.h
+-- Looking for sys/socket.h - found
+-- Looking for dirent.h
+-- Looking for dirent.h - found
+-- USE_LRINT is enabled
+-- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.37.1") 
+-- Found FLEX: /usr/bin/flex (found version "2.5.39") 
+-- Found BISON: /usr/bin/bison (found version "3.0.2") 
+FLTK FOUND: 1
+-- Using fltk-config script for FLTK 1.3
+-- Looking for pthread_spin_lock
+-- Looking for pthread_spin_lock - found
+-- Looking for pthread_barrier_init
+-- Looking for pthread_barrier_init - found
+-- USE_OPEN_MP is enabled
+-- Not building with score parser
+-- Not building with new parser debugging
+-- Building with multicore
+-- USE_GETTEXT is enabled
+-- Using GNU Gettext
+-- Setting textdomain to /usr/local/share/locale
+-- Building on Linux
+--   ADDING LIBRT LIBRARY: /usr/lib/x86_64-linux-gnu/librt.so
+-- Looking for strlcat
+-- Looking for strlcat - not found
+-- Looking for strtok_r
+-- Looking for strtok_r - found
+-- Looking for strtod_l
+-- Looking for strtod_l - found
+-- Looking for sprintf_l
+-- Looking for sprintf_l - not found
+-- Looking for _strtok_r
+-- Looking for _strtok_r - not found
+-- Looking for _strtod_l
+-- Looking for _strtod_l - not found
+-- Looking for _sprintf_l
+-- Looking for _sprintf_l - not found
+-- Boost version: 1.55.0
+-- Looking for ladspa.h
+-- Looking for ladspa.h - found
+-- Looking for fluidsynth.h
+-- Looking for fluidsynth.h - not found
+-- Looking for jack/jack.h
+-- Looking for jack/jack.h - not found
+-- Looking for C++ include gmm/gmm.h
+-- Looking for C++ include gmm/gmm.h - not found
+-- Looking for lo/lo.h
+-- Looking for lo/lo.h - found
+-- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.8") 
+-- Found PNG: /usr/lib/x86_64-linux-gnu/libpng.so (found version "1.2.50") 
+-- Could NOT find PythonLibs (missing:  PYTHON_LIBRARIES PYTHON_INCLUDE_DIRS) 
+-- Looking for wiiuse.h
+-- Looking for wiiuse.h - not found
+-- Looking for p5glove.h
+-- Looking for p5glove.h - not found
+-- Performing Test COMPILER_SUPPORTS_CXX11
+-- Performing Test COMPILER_SUPPORTS_CXX11 - Success
+-- Performing Test COMPILER_SUPPORTS_CXX0X
+-- Performing Test COMPILER_SUPPORTS_CXX0X - Success
+-- BUILD_CHUA_OPCODES is enabled
+-- BUILD_DSSI_OPCODES is enabled
+-- FLUIDSYNTH_H="", so disabling BUILD_FLUID_OPCODES
+-- FLUIDSYNTH_LIBRARY="FLUIDSYNTH_LIBRARY-NOTFOUND", so disabling BUILD_FLUID_OPCODES
+-- BUILD_FLUID_OPCODES is disabled
+-- JACK_HEADER="", so disabling BUILD_JACK_OPCODES
+-- BUILD_JACK_OPCODES is disabled
+-- GMM_HEADER="", so disabling BUILD_LINEAR_ALGEBRA_OPCODES
+-- BUILD_LINEAR_ALGEBRA_OPCODES is disabled
+-- BUILD_OSC_OPCODES is enabled
+-- OSC OPCODES!!!!!!
+-- BUILD_IMAGE_OPCODES is enabled
+-- PYTHONLIBS_FOUND="FALSE", so disabling BUILD_PYTHON_OPCODES
+-- BUILD_PYTHON_OPCODES is disabled
+-- LUAJIT_LIBRARY="LUAJIT_LIBRARY-NOTFOUND", so disabling BUILD_LUA_OPCODES
+-- LUA_H_PATH="LUA_H_PATH-NOTFOUND", so disabling BUILD_LUA_OPCODES
+-- BUILD_LUA_OPCODES is disabled
+-- WIIUSE_H="", so disabling BUILD_WIIMOTE_OPCODES
+-- WIIUSE_LIB="WIIUSE_LIB-NOTFOUND", so disabling BUILD_WIIMOTE_OPCODES
+-- BUILD_WIIMOTE_OPCODES is disabled
+-- P5GLOVE_H="", so disabling BUILD_P5GLOVE_OPCODES
+-- BUILD_P5GLOVE_OPCODES is disabled
+-- BUILD_FAUST_OPCODES is disabled
+-- BUILD_VST4CS_OPCODES is disabled
+-- STK_FOUND="STK_FOUND-NOTFOUND", so disabling BUILD_STK_OPCODES
+-- STK_INCLUDE_DIR="STK_INCLUDE_DIR-NOTFOUND", so disabling BUILD_STK_OPCODES
+-- BUILD_STK_OPCODES is disabled
+-- Looking for hdf5.h
+-- Looking for hdf5.h - not found
+-- HDF5_library="HDF5_library-NOTFOUND", so disabling BUILD_HDF5_OPCODES
+-- HDF5_H="", so disabling BUILD_HDF5_OPCODES
+-- BUILD_HDF5_OPCODES is disabled
+-- websockets_library="websockets_library-NOTFOUND", so disabling BUILD_WEBSOCKET_OPCODE
+-- WEBSOCKETS_H="WEBSOCKETS_H-NOTFOUND", so disabling BUILD_WEBSOCKET_OPCODE
+-- LIBWEBSOCKET_CANCEL_SERVICE="", so disabling BUILD_WEBSOCKET_OPCODE
+-- BUILD_WEBSOCKET_OPCODE is disabled
+-- 
+-- ## REALTIME AUDIO AND MIDI ##
+-- Looking for alsa/asoundlib.h
+-- Looking for alsa/asoundlib.h - found
+-- Looking for pulse/simple.h
+-- Looking for pulse/simple.h - not found
+-- APPLE="", so disabling USE_COREMIDI
+-- COREMIDI_INCLUDE_PATH="COREMIDI_INCLUDE_PATH-NOTFOUND", so disabling USE_COREMIDI
+-- COREMIDI_LIBRARY="COREMIDI_LIBRARY-NOTFOUND", so disabling USE_COREMIDI
+-- COREFOUNDATION_LIBRARY="COREFOUNDATION_LIBRARY-NOTFOUND", so disabling USE_COREMIDI
+-- USE_COREMIDI is disabled
+-- APPLE="", so disabling USE_AUDIOUNIT
+-- COREAUDIO_INCLUDE_PATH="COREAUDIO_INCLUDE_PATH-NOTFOUND", so disabling USE_AUDIOUNIT
+-- COREAUDIO_LIBRARY="COREAUDIO_LIBRARY-NOTFOUND", so disabling USE_AUDIOUNIT
+-- AUDIOUNIT_INCLUDE_PATH="AUDIOUNIT_INCLUDE_PATH-NOTFOUND", so disabling USE_AUDIOUNIT
+-- AUDIOUNIT_LIBRARY="AUDIOUNIT_LIBRARY-NOTFOUND", so disabling USE_AUDIOUNIT
+-- COREFOUNDATION_LIBRARY="COREFOUNDATION_LIBRARY-NOTFOUND", so disabling USE_AUDIOUNIT
+-- USE_AUDIOUNIT is disabled
+-- USE_ALSA is enabled
+-- PULSEAUDIO_HEADER="", so disabling USE_PULSEAUDIO
+-- PULSEAUDIO_LIBRARY="PULSEAUDIO_LIBRARY-NOTFOUND", so disabling USE_PULSEAUDIO
+-- PULSESIMPLE_LIBRARY="PULSESIMPLE_LIBRARY-NOTFOUND", so disabling USE_PULSEAUDIO
+-- USE_PULSEAUDIO is disabled
+-- PORTAUDIO_INCLUDE_PATH="PORTAUDIO_INCLUDE_PATH-NOTFOUND", so disabling USE_PORTAUDIO
+-- PORTAUDIO_LIBRARY="PORTAUDIO_LIBRARY-NOTFOUND", so disabling USE_PORTAUDIO
+-- PORTAUDIO_TEST_COMPILED="", so disabling USE_PORTAUDIO
+-- USE_PORTAUDIO is disabled
+-- Not building Portaudio Driver...
+-- Portaudio v19 Found: false
+-- PORTMIDI_INCLUDE_PATH="PORTMIDI_INCLUDE_PATH-NOTFOUND", so disabling USE_PORTMIDI
+-- PORTMIDI_LIBRARY="PORTMIDI_LIBRARY-NOTFOUND", so disabling USE_PORTMIDI
+-- PORTTIME_LIBRARY="PORTTIME_LIBRARY-NOTFOUND", so disabling USE_PORTMIDI
+-- USE_PORTMIDI is disabled
+-- JACK_HEADER="", so disabling USE_JACK
+-- JACK_LIBRARY="JACK_LIBRARY-NOTFOUND", so disabling USE_JACK
+-- USE_JACK is disabled
+-- USE_FLTK is enabled
+-- BUILD_VIRTUAL_KEYBOARD is enabled
+-- 
+-- Building C++ interface library
+-- Could NOT find SWIG (missing:  SWIG_EXECUTABLE SWIG_DIR) (Required is at least version "2.0")
+-- Could NOT find PythonLibs (missing:  PYTHON_LIBRARIES PYTHON_INCLUDE_DIRS) 
+-- Found JNI: /usr/lib/jvm/java-8-oracle/jre/lib/amd64/libjawt.so  
+-- Found Java: /usr/bin/java (found version "1.8.0.45") 
+-- PYTHON_LIBRARY-NOTFOUND
+-- SWIG_FOUND="FALSE", so disabling BUILD_PYTHON_INTERFACE
+-- PYTHONLIBS_FOUND="FALSE", so disabling BUILD_PYTHON_INTERFACE
+-- BUILD_PYTHON_INTERFACE is disabled
+-- SWIG_FOUND="FALSE", so disabling BUILD_JAVA_INTERFACE
+-- BUILD_JAVA_INTERFACE is disabled
+-- SWIG_FOUND="FALSE", so disabling BUILD_LUA_INTERFACE
+-- LUAJIT_LIBRARY="LUAJIT_LIBRARY-NOTFOUND", so disabling BUILD_LUA_INTERFACE
+-- LUA_H_PATH="LUA_H_PATH-NOTFOUND", so disabling BUILD_LUA_INTERFACE
+-- BUILD_LUA_INTERFACE is disabled
+-- Building csLadspa
+-- BUILD_CSBEATS is enabled
+-- BUILD_PD_CLASS is enabled
+-- BUILD_WINSOUND is disabled
+-- Boost version: 1.55.0
+-- Could NOT find SWIG (missing:  SWIG_EXECUTABLE SWIG_DIR) 
+-- Could NOT find PythonLibs (missing:  PYTHON_LIBRARIES PYTHON_INCLUDE_DIRS) 
+-- EIGEN_DENSE="EIGEN_DENSE-NOTFOUND", so disabling BUILD_CSOUND_AC
+-- BUILD_CSOUND_AC is disabled
+-- SWIG_FOUND="FALSE", so disabling BUILD_CSOUND_AC_PYTHON_INTERFACE
+-- PYTHONLIBS_FOUND="FALSE", so disabling BUILD_CSOUND_AC_PYTHON_INTERFACE
+-- EIGEN_DENSE="EIGEN_DENSE-NOTFOUND", so disabling BUILD_CSOUND_AC_PYTHON_INTERFACE
+-- BUILD_CSOUND_AC_PYTHON_INTERFACE is disabled
+-- SWIG_FOUND="FALSE", so disabling BUILD_CSOUND_AC_LUA_INTERFACE
+-- LUAJIT_LIBRARY="LUAJIT_LIBRARY-NOTFOUND", so disabling BUILD_CSOUND_AC_LUA_INTERFACE
+-- LUA_H_PATH="LUA_H_PATH-NOTFOUND", so disabling BUILD_CSOUND_AC_LUA_INTERFACE
+-- EIGEN_DENSE="EIGEN_DENSE-NOTFOUND", so disabling BUILD_CSOUND_AC_LUA_INTERFACE
+-- BUILD_CSOUND_AC_LUA_INTERFACE is disabled
+-- Boost version: 1.55.0
+-- BUILD_CSOUNDVST is disabled
+-- Not Building csound~ for Max/MSP
+--   MAX_SDK_ROOT is not defined
+-- CUNIT_LIBRARY="CUNIT_LIBRARY-NOTFOUND", so disabling BUILD_TESTS
+-- BUILD_STATIC_LIBRARY="OFF", so disabling BUILD_TESTS
+-- BUILD_TESTS is disabled
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/anton/tools/cs6make
